@@ -1,0 +1,27 @@
+
+.bg-login{
+  background-image: url(images/bg-login.jpg);
+  background-size:cover;
+  background-position: center;
+  height: 100vh;
+
+}
+.card{
+  backdrop-filter: blur(5px);
+}
+
+.bg-theme{
+  background-color:#0d3776
+}
+.bg-content{
+  background-color: #ebf2fc;
+}
+.bg-member{
+  background-image: url(images/addMember.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
